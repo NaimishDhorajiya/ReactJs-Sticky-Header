@@ -1,0 +1,23 @@
+.navbar-custom {
+  background-color: white;
+  box-shadow: 0 4px 2px -2px gray;
+  transition: box-shadow 0.3s;
+}
+
+.navbar-custom.sticky {
+  box-shadow: 0 4px 8px -2px gray;
+}
+
+.h4-text {
+  color: #fff;
+  font-size: 1.25rem;
+  font-weight: 600;
+}
+
+ul {
+  list-style: none;
+  list-style-position: outside;
+  font-size: 1rem;
+  color: #fff;
+  padding-left: 0px !important;
+}
